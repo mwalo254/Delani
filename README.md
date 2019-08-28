@@ -3,8 +3,8 @@ By Nick Mwalo
 ## Description
 This is a web application that modifies and styles a fictional studio
 
-Behaviour Driven Development(BDD)
-# Behaviour	                Input	                      Output
+# Behaviour Driven Development(BDD)
+ Behaviour	                Input	                      Output
 Form to be filled	User enters required credentials	Alert dialog box 
 
 ## Installation Requirements
@@ -14,6 +14,7 @@ Clone the link
 Open the link from where the repository is saved
 
 Known Bugs
+
 None.
 
 ## Technologies Used
