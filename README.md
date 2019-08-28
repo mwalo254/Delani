@@ -1,15 +1,29 @@
-## Delani Studio
-Authors
-## Nick Mwalo
+## Delani Studio Project
+By Nick Mwalo
+## Description
+This is a web application that modifies and styles a fictional studio
 
-Project setup instructions
-To start using this project use the following commands:
+Behaviour Driven Development(BDD)
+# Behaviour	                Input	                      Output
+Form to be filled	User enters required credentials	Alert dialog box 
 
-git clone https://github.com/moringaschool/hello-world.git cd hello-world atom . code . [//]: (this is if Visual Studio Code is your preferred text editor) License info MIT License
+## Installation Requirements
+Create an account on Github
+Fork the repository from Github:https://github.com/mwalo254/delani-studio.git
+Clone the link
+Open the link from where the repository is saved
+Known Bugs
+None.
 
-## Copyright (c) 2019 Moringa School
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## Technologies Used
+HTML - For building the user interface
+CSS - For styling the user interface
+Javascript - For document object manipulation
+Bootstrap - For styling the interface
+jQuery - To easen use of JavaScript on your website
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Support and contact details
+You can get to me through mwalonick@gmail.com.
 
-## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## License.
+MIT Copyright (c) 2019 MITlicense
