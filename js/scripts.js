@@ -36,4 +36,9 @@ $(document).ready(function(){
       $("#prod-content").toggle();
     });
   });
+  $("form").submit(function() {
+    var name= $("input#name").val();
+    alert("We've received your message "+name+". Thank you for contacting us");
+    event.preventDefault();
+  });
   
